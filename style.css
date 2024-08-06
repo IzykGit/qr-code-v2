@@ -9,7 +9,9 @@ body {
     align-items: center;
 
     font-family: "Outfit", sans-serif;
-    background-color: hsl(212, 45%, 89%)
+    background-color: hsl(212, 45%, 89%);
+
+    overflow: hidden;
 }
 
 main {
